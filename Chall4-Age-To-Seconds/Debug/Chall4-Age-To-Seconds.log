@@ -1,0 +1,3 @@
+﻿  Chall4-Age-To-Seconds.cpp
+g:\documents\programming\c++\github\chall4-age-to-seconds\chall4-age-to-seconds\chall4-age-to-seconds.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Chall4-Age-To-Seconds.vcxproj -> G:\Documents\Programming\C++\GitHub\Chall4-Age-To-Seconds\Debug\Chall4-Age-To-Seconds.exe
